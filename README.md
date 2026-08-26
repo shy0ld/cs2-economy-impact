@@ -18,7 +18,7 @@ The legacy market (case unboxing) did not collapse under the new update. In fact
 **Luxury Segment Dynamics: Supply Shock & Liquidity Shift**
 High-tier items (such as the Butterfly Knife) experienced a temporary price drop. This was primarily driven by a sudden supply shock as direct knife crafting was enabled, diluting artificial scarcity. This effect was further amplified by a short-term liquidity shift, where players liquidated luxury assets to secure Steam balance for new crafting recipes.
 
-## Under the Hood (Tech Stack)
+## Tech Stack
 
 This project goes beyond just making charts; it represents a full data processing pipeline from raw files to financial analytics.
 
