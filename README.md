@@ -30,4 +30,4 @@ For the visualization, I built interactive Tableau dashboards utilizing a Differ
 
 The entire business logic, A/B timeline comparison, and item breakdowns are available on Tableau Public.
 
-[View the Live Dashboard on Tableau Public]( YOUR_TABLEAU_LINK_HERE )
+[View the Live Dashboard on Tableau Public]( https://public.tableau.com/app/profile/arsen.musaelian/viz/CS2_Market_Economy_Impact/Dashboard1?publish=yes )
