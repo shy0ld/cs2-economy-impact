@@ -13,6 +13,9 @@ I wrote a custom ETL script in Python using `pandas` and `SQLAlchemy` to parse r
 
 For the visualization, I built interactive Tableau dashboards utilizing a Difference-in-Differences (Diff-in-Diff) logic. To verify that volume and revenue shifts were directly caused by the update rather than broader market seasonality, an isolated control item (Printstream) was monitored throughout the analysis.
 
+## Business Context 
+Counter-Strike 2 (CS2) has a massive global P2P economy that works like a real-world exchange market. In this project, I treat digital items (skins and cases) as real financial assets. My goal was to use raw market data to analyse how a major product update changed user spending behaviour and the platform's total revenue.
+
 ## Key Findings
 
 **$1M Revenue Spike**
